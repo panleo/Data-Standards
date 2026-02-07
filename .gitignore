@@ -13,3 +13,5 @@ datasets/
 .vscode/
 .venv/
 
+# Arquivo de chaves de segurança
+.env/
