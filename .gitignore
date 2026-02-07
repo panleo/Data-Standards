@@ -1,0 +1,15 @@
+# Ambiente Virtual# Ambiente Virtual
+.venv/
+
+# Cache do Python (arquivos temporários que ele cria para rodar mais rápido)
+__pycache__/
+*.pyc
+
+# Dados e Datasets (para não subir imagens pesadas do Roboflow por engano)
+data/
+datasets/
+
+# Arquivos de configuração do VS Code (opcional)
+.vscode/
+.venv/
+
