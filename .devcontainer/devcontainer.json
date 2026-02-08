@@ -13,5 +13,5 @@
 			]
 		}
 	},
-	"postCreateCommand": "pip install --upgrade pip"
+	"postCreateCommand": "bash .devcontainer/setup.sh"
 }
